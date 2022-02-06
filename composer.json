@@ -29,7 +29,8 @@
         }
     ],
     "require": {
-        
+        "ext-json": "*",
+        "cboden/ratchet": "^0.4.1"
     },
     "require-dev": {
         "clue/block-react": "^1.4",
